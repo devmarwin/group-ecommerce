@@ -334,21 +334,7 @@ a:active {
     transform: scale(1.5);
 }
 
-
-/* 
-for esportsmerch
-.text-end {
-    font-size: 10px;
-    color: black;
-    text-align: end;
-}
-
-
-.card:hover {
-  box-shadow: 0 10px 20px 0 #fdf200;
-  border-style: dotted;
-} */
-
+/* Start Login and Signup  */
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
 * {
@@ -561,6 +547,7 @@ form .btn input[type="submit"] {
     background-color: #f5f5f5;
 }
 
+/* End Login and Signup */
 
 /* DANIEL TASKS */
 
@@ -1034,3 +1021,5 @@ form .btn input[type="submit"] {
         opacity: 1;
     }
 }
+
+/* End Marwin */
